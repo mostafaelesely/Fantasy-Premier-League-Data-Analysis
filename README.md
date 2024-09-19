@@ -15,23 +15,6 @@ This project is a comprehensive analysis of Fantasy Premier League (FPL) player 
 - **Points per Game vs. Selected by Percent:** Bubble chart depicting the relationship between points per game and the percentage of teams that have selected the player.
 - **Cost vs. Points per Game by Position:** Violin plot illustrating the cost-effectiveness of players in different positions.
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/fpl-data-analysis.git
-   ```
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd fpl-data-analysis
-   ```
-3. **Install the Required Libraries:**
-   Make sure you have Python installed. You can create a virtual environment and install the required libraries using:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   The `requirements.txt` file should include all the necessary Python packages such as pandas, matplotlib, seaborn, and plotly.
-
 4. **Run the Analysis:**
    You can run the analysis scripts to generate the visualizations by executing:
    ```bash
